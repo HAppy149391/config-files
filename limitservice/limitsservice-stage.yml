@@ -1,0 +1,5 @@
+enviname: STAGE
+limit:
+    daily: 20
+    monthly:200
+    yearly: 2000

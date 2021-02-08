@@ -1,0 +1,5 @@
+enviname: PROD
+limit:
+    daily: 30
+    monthly:300
+    yearly: 3000

@@ -1,0 +1,5 @@
+enviname: DEFAULT
+limit:
+    daily: 00
+    monthly:000
+    yearly: 0000

@@ -1,6 +1,3 @@
 enviname: DEV
-limit:
-    daily: 10
-    monthly:100
-    yearly: 1000
+limit:100
     
